@@ -1,9 +1,9 @@
 res = 0
-puts "First Number"
+puts "Primeiro Numero"
 numone = gets
-puts "Second number"
+puts "Segundo Numero"
 numtwo = gets
-puts "Operation"
+puts "Operação (+, -, *)"
 
 numone = numone.to_s.to_i
 numtwo = numtwo.to_s.to_i
