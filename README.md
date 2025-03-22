@@ -59,11 +59,8 @@ Pronto agora se olharmos a pasta do projeto devera ficar algo assim
 
 ``
 Projeto/
-
   Lib/
-  
   shard.yml
-  
   shard.lock
 ``
 
