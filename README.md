@@ -99,3 +99,9 @@ assim será gerado na pasta do projeto um arquivo chamado apenas de ``projeto``
 e podemos executar com:
 
 ``$ ./projeto``
+
+
+## Primeiro desafio
+dentro desse repositorio deixei um arquivo chamado calc.cr, é um aplicativo bem simples que funciona como uma calculadora
+
+Seu desafio é baixar e executar ou compilar esse codigo e estudar ele por dentro!
