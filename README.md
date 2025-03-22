@@ -65,6 +65,7 @@ Projeto/
   shard.yml
   
   shard.lock
+  
 -------------------------------------
 
 Dentro da pasta do app vamos criar um arquivo chamado ``projeto.cr``
@@ -80,6 +81,7 @@ Como o crystal tem uma sintaxe identica ao ruby escreveriamos assim:
 Essa é uma forma mais legal de fazer que explora classes!
 
 ----------------------------------
+
 class Projeto
 
   def self.iniciar
@@ -91,6 +93,7 @@ class Projeto
 end
 
 Projeto.iniciar
+
 -----------------------------------
 
 ## Executar / Compilar
