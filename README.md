@@ -81,9 +81,13 @@ Essa é uma forma mais legal de fazer que explora classes!
 
 ----------------------------------
 class Projeto
+
   def self.iniciar
-    puts "Hello World!"
+ 
+   puts "Hello World!"
+   
   end
+  
 end
 
 Projeto.iniciar
