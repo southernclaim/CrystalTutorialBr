@@ -59,8 +59,11 @@ Pronto agora se olharmos a pasta do projeto devera ficar algo assim
 
 ``
 Projeto/
+
   Lib/
+  
   shard.yml
+  
   shard.lock
 ``
 
@@ -78,10 +81,15 @@ Essa é uma forma mais legal de fazer que explora classes!
 
 ``
 class Projeto
+
   def self.iniciar
+  
     puts "Hello World!"
+    
   end
+  
 end
+
 Projeto.iniciar
 ``
 
