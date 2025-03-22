@@ -57,12 +57,15 @@ agora para gerar a pasta lib/ vamos usar
 
 Pronto agora se olharmos a pasta do projeto devera ficar algo assim
 
-``
+
 Projeto/
+
   Lib/
+  
   shard.yml
+  
   shard.lock
-``
+
 
 Dentro da pasta do app vamos criar um arquivo chamado ``projeto.cr``
 
@@ -76,7 +79,7 @@ Como o crystal tem uma sintaxe identica ao ruby escreveriamos assim:
 ## Versão um pouco mais avançada
 Essa é uma forma mais legal de fazer que explora classes!
 
-``
+
 class Projeto
 
   def self.iniciar
@@ -88,7 +91,7 @@ class Projeto
 end
 
 Projeto.iniciar
-``
+
 
 ## Executar / Compilar
 Você pode rodar um codigo em Crystal de 2 formas: A primeiro você pode rodar direto:
